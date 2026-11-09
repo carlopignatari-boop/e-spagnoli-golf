@@ -7,15 +7,15 @@
       "circolo": "MODENA",
       "stbl": 23.0,
       "ags": 108.0,
-      "pcc": null,
-      "sd": null,
-      "sd_est": 31.9,
+      "pcc": 1.0,
+      "sd": 31.0,
+      "sd_est": null,
       "cr": 72.2,
       "sr": 127.0,
       "idxN": 20.5,
       "idxV": 20.5,
       "var": 0.0,
-      "pending": true,
+      "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/f10c7692-8cdb-f111-84e8-70a8a532fcae",
       "top8": false,
       "n": 1
@@ -399,26 +399,6 @@
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/00fa29e1-9991-f111-8076-6045bd96fca1",
       "top8": false,
       "n": 20
-    },
-    {
-      "data": "02/08/2026",
-      "buche": "18",
-      "gara": "TROFEO PARMIGIANO REGGIANO 2026 - 9^ Pro",
-      "circolo": "MODENA",
-      "stbl": 30.0,
-      "ags": 101.0,
-      "pcc": 0.0,
-      "sd": 26.6,
-      "sd_est": null,
-      "cr": 72.0,
-      "sr": 123.0,
-      "idxN": 21.4,
-      "idxV": 21.4,
-      "var": 0.0,
-      "pending": false,
-      "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/a7e28cd4-6e8e-f111-8076-000d3a2da5c0",
-      "top8": false,
-      "n": 21
     }
   ],
   "stats": {
@@ -429,7 +409,7 @@
     "idx_fig": 20.5,
     "theoretical_idx": 20.5
   },
-  "updated_at": "08/11/2026 15:55",
+  "updated_at": "09/11/2026 13:00",
   "hist": [
     {
       "d": "10/02/2021",
@@ -2828,6 +2808,12 @@
     {
       "d": "05/11/2026",
       "sd": 23.0,
+      "iv": 20.5,
+      "in": 20.5
+    },
+    {
+      "d": "08/11/2026",
+      "sd": 31.0,
       "iv": 20.5,
       "in": 20.5
     }
