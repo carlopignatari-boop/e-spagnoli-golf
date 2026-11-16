@@ -7,17 +7,17 @@
       "circolo": "MODENA",
       "stbl": 34.0,
       "ags": 97.0,
-      "pcc": null,
-      "sd": null,
-      "sd_est": 22.1,
+      "pcc": 0.0,
+      "sd": 22.1,
+      "sd_est": null,
       "cr": 72.2,
       "sr": 127.0,
       "idxN": 20.5,
       "idxV": 20.5,
       "var": 0.0,
-      "pending": true,
+      "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/232c1ee0-0be1-f111-84e8-70a8a5332a50",
-      "top8": false,
+      "top8": true,
       "n": 1
     },
     {
@@ -117,7 +117,7 @@
       "var": 0.0,
       "pending": false,
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/d35c813d-9cc5-f111-aaad-7ced8d8bfeb7",
-      "top8": true,
+      "top8": false,
       "n": 6
     },
     {
@@ -399,26 +399,6 @@
       "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/24852662-2e93-f111-8075-70a8a5a067d8",
       "top8": false,
       "n": 20
-    },
-    {
-      "data": "06/08/2026",
-      "buche": "18",
-      "gara": "APERICENA - 4^ Prova",
-      "circolo": "MODENA",
-      "stbl": 30.0,
-      "ags": 101.0,
-      "pcc": 0.0,
-      "sd": 26.6,
-      "sd_est": null,
-      "cr": 72.0,
-      "sr": 123.0,
-      "idxN": 21.4,
-      "idxV": 21.4,
-      "var": 0.0,
-      "pending": false,
-      "link": "https://areariservata.federgolf.it/Risultati/ViewDetail/00fa29e1-9991-f111-8076-6045bd96fca1",
-      "top8": false,
-      "n": 21
     }
   ],
   "stats": {
@@ -429,7 +409,7 @@
     "idx_fig": 20.5,
     "theoretical_idx": 20.5
   },
-  "updated_at": "15/11/2026 17:57",
+  "updated_at": "16/11/2026 13:21",
   "hist": [
     {
       "d": "10/02/2021",
@@ -2834,6 +2814,12 @@
     {
       "d": "08/11/2026",
       "sd": 31.0,
+      "iv": 20.5,
+      "in": 20.5
+    },
+    {
+      "d": "15/11/2026",
+      "sd": 22.1,
       "iv": 20.5,
       "in": 20.5
     }
